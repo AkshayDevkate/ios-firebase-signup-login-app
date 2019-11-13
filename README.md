@@ -67,7 +67,7 @@ now in xcode create main.storyboard and code for button actions and run the proj
 
 IOS App 
 
-![Screenshot](Screenshot 2019-11-13 at 10.50.38 AM.jpeg)
+Screenshot 2019-11-13 at 10.50.38 AM.png
 
 
 
