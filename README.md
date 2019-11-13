@@ -39,7 +39,7 @@ close the project and open the .xcworkspace file from the project folder onwords
 
 To connect Firebase when your app starts up, add the initialization code below to your main AppDelegate class.
 
-/*
+'''
 import UIKit
 import Firebase //add this 
 
@@ -55,7 +55,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     return true
   }
 }
-*/
+'''
 
 Run the project and check whether it has communicated with the firebase servers or not (on firebase website ios SDK)
 
