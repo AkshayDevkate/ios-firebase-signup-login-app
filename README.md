@@ -35,11 +35,34 @@ Install the pods by running the
 
 on terminal 
 
-close the project and open the .xcworkspace file from the project folder onwords use the same file for development 
+close the project and open the .xcworkspace file from the project folder onwords use the same file for development
+
+To connect Firebase when your app starts up, add the initialization code below to your main AppDelegate class.
+
+import UIKit
+import Firebase //add this 
+
+@UIApplicationMain
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+  var window: UIWindow?
+
+  func application(_ application: UIApplication,
+    didFinishLaunchingWithOptions launchOptions:
+      [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    FirebaseApp.configure()                    //this is to be added in the above class
+    return true
+  }
+}
+
+
+
 Run the project and check whether it has communicated with the firebase servers or not (on firebase website ios SDK)
 
 
 In Google Firebase website -> to the project you created -> authentication -> sign in method -> and enable Email/Password
+
+now in xcode create main.storyboard and code for button actions and run the project
 
 
 
