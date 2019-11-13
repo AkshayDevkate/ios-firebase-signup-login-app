@@ -62,6 +62,8 @@ Run the project and check whether it has communicated with the firebase servers 
 
 In Google Firebase website -> to the project you created -> authentication -> sign in method -> and enable Email/Password
 
+![Screenshot](authentication.png)
+
 now in xcode create main.storyboard and code for button actions and run the project
 
 
@@ -74,7 +76,7 @@ IOS App
 
 ![Screenshot](screenshotsignup.png)
 
-![Screenshot](screenshotsuccess.png)
+![Screenshot](success.png)
 
 
 
