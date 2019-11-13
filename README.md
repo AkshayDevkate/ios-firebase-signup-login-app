@@ -89,4 +89,11 @@ after successfull SignUp or Login
 ![Screenshot](success.png)
 
 
+Follow Video Tutorials:-
+https://codewithchris.com/
+
+
+Please contact:- 
+devkatte.akshay98@gmail.com for learning 
+
 
