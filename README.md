@@ -72,9 +72,19 @@ IOS App
 
 ![Screenshot](screenshot1.png)
 
+
+when tapped login
+
 ![Screenshot](screenshotlogin.png)
 
+
+when tapped signUp
+
 ![Screenshot](screenshotsignup.png)
+
+
+
+after successfull SignUp or Login
 
 ![Screenshot](success.png)
 
