@@ -94,6 +94,6 @@ https://codewithchris.com/
 
 
 Please contact:- 
-devkatte.akshay98@gmail.com for learning 
+devkatte.akshay98@gmail.com for help if needed
 
 
