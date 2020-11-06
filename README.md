@@ -93,7 +93,6 @@ Follow Video Tutorials:-
 https://codewithchris.com/
 
 
-Please contact:- 
-devkatte.akshay98@gmail.com for help if needed
+
 
 
