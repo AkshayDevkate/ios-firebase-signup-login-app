@@ -1,5 +1,5 @@
 # ios-firebase-signup-login-app
-IOS app for login and signup using firebase and cocoapods [learned from https://codewithchris.com/ ]
+
 
 
 prerequisite
@@ -89,7 +89,7 @@ after successfull SignUp or Login
 ![Screenshot](success.png)
 
 
-Follow Video Tutorials:-
+References/ Tutorials :-
 https://codewithchris.com/
 
 
