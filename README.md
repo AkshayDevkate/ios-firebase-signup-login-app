@@ -89,8 +89,6 @@ after successfull SignUp or Login
 ![Screenshot](success.png)
 
 
-References/ Tutorials :-
-https://codewithchris.com/
 
 
 
